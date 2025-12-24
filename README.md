@@ -27,7 +27,9 @@ curl -I -x http://USERNAME:PASSWORD@SERVER_IP:PORT https://youtube.com
 
 
 
+## forward tunnel gost 
 
+https://gost.run/en/getting-started/quick-start/
 
  gost forward tunnel 
 ./gost   -L tcp://:30630/ipdest:30630
