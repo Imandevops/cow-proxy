@@ -22,3 +22,12 @@ docker compose up -d
 ```
 curl -I -x http://USERNAME:PASSWORD@SERVER_IP:PORT https://youtube.com
 ```
+
+
+
+
+
+
+
+ gost forward tunnel 
+./gost   -L tcp://:30630/ipdest:30630
